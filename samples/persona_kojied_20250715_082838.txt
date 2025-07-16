@@ -1,0 +1,45 @@
+Reddit User Persona Analysis for kojied
+==================================================
+
+BASIC INFORMATION:
+- Username: kojied
+- Account created: 2020-01-03 02:36:25
+- Comment karma: 1823
+- Post karma: 216
+- Premium: No
+- Moderator: No
+
+INTERESTS:
+- Top subreddits: AskReddit, civ5, AskNYC, ManorLords, warriors
+  (Source: Post 'H1B holders, what are your tho...' in r/AskReddit)
+- Common keywords: that, have, this, with, they, your, like, will, their, what
+  (Source: Comment in r/ManorLords: 'Sorry to hear that man, in the...')
+
+BEHAVIOR PATTERNS:
+- Average comment length: 228.8 characters
+- Comment to post ratio: 76.3% comments, 23.7% submissions
+- Most active hours: 21:00-22:00, 20:00-21:00, 9:00-10:00
+- Engagement level: Highly Engaged
+
+PERSONALITY TRAITS:
+- Positive
+- Detailed/Thoughtful
+
+POTENTIAL DEMOGRAPHICS:
+- Likely timezone: UTC+8 to UTC+10 (Asia afternoon)
+- Possible location: United States
+
+SOURCES:
+- Analyzed 100 comments and 31 submissions
+
+SAMPLE COMMENT:
+From r/ManorLords (Score: 12):
+Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey.
+Also I just store ale at the tavern or keep it...
+Permalink: https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/
+
+SAMPLE POST:
+From r/newyorkcity (Score: 0):
+Title: I feel violated by intern season
+There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally has a mature vibe with people who like music and to dance. Today when I went to the ...
+Permalink: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/

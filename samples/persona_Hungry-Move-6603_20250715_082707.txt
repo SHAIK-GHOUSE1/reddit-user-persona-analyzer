@@ -1,0 +1,43 @@
+Reddit User Persona Analysis for Hungry-Move-6603
+==================================================
+
+BASIC INFORMATION:
+- Username: Hungry-Move-6603
+- Account created: 2021-04-06 02:17:18
+- Comment karma: 21
+- Post karma: 117
+- Premium: No
+- Moderator: No
+
+INTERESTS:
+- Top subreddits: lucknow, nagpur, IndiaUnfilter, indiasocial, amiugly
+  (Source: Post 'Reading Cafe / Reader' Club?...' in r/lucknow)
+- Common keywords: cops, have, common, delhi, such, sort, seen, everyone, malls, thing
+  (Source: Comment in r/nagpur: 'I was caught without helmet an...')
+
+BEHAVIOR PATTERNS:
+- Average comment length: 114.4 characters
+- Comment to post ratio: 78.6% comments, 21.4% submissions
+- Most active hours: 10:00-11:00, 0:00-1:00, 1:00-2:00
+- Engagement level: Active
+
+PERSONALITY TRAITS:
+- Negative
+
+POTENTIAL DEMOGRAPHICS:
+- Likely timezone: UTC-5 to UTC-8 (Americas night time)
+- Possible location: United States
+
+SOURCES:
+- Analyzed 11 comments and 3 submissions
+
+SAMPLE COMMENT:
+From r/lucknow (Score: 16):
+Malls are a thing of past - and entire LKO is on steroids in rents cost, despite low to no demand.
+Permalink: https://reddit.com/r/lucknow/comments/1lzfhve/what_has_happened_to_malls_like_wave_one_awadh/n34g4ea/
+
+SAMPLE POST:
+From r/lucknow (Score: 1):
+Title: Reading Cafe / Reader' Club?
+[removed]
+Permalink: https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/
